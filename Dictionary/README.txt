@@ -1,0 +1,1 @@
+Criar uma interface pro dicionario.
